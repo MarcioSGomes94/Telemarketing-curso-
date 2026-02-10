@@ -41,13 +41,10 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Márcio Gomes  
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
 
