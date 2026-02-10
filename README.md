@@ -8,6 +8,10 @@ Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do 
 
 ## Utilização
 
+### Link para aplicação (LIVE)
+
+https://telemarketing-curso.onrender.com/
+
 ### Dependencias
 
 * Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
